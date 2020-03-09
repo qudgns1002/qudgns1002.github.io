@@ -9,8 +9,6 @@ tags:
 last_modified_at: 2020-03-08
 ---
 
-I just started new Blog here.
+new Blog here.
 
-I am going to do my best keep this blog updated.
-
-Let's get it started.
+test editing.
